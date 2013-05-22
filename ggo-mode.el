@@ -4,9 +4,8 @@
 ;; Matthew K. Junker
 
 ;; Author: Matthew K. Junker <junker@alum.mit.edu>
-;; Package-Version: 20130416
+;; Package-Version: 20130521
 ;; Keywords: extensions, convenience, local
-;; $Id: ggo-mode.el 950 2013-04-16 13:02:30Z junker $
 
 ;; This file is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
@@ -24,12 +23,11 @@
 ;; Boston, MA 02111-1307, USA.
 
 ;;; Commentary:
-
+;;
 ;; A major mode for editing gengetopt files.
-
-;; Modify `ggo-skeleton' to suit your format.  The current contents
-;; are based on proposals I have made.
-
+;;
+;; Modify `ggo-skeleton' to suit your format.
+;;
 ;; Should work with Emacs version 21 and later.  Works with
 ;; gengetopt 2.22.4.  May or may not work with previous versions.
 
