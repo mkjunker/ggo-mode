@@ -352,6 +352,7 @@ keyword.
 
 ;;;###autoload
 (add-to-list 'auto-mode-alist '("\\.ggo\\'" . ggo-mode))
+(require 'autoinsert)
 (add-to-list 'auto-insert-alist '(ggo-mode . ggo-skeleton))
 
 (provide 'ggo-mode)
