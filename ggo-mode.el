@@ -1,10 +1,10 @@
 ;;; ggo-mode.el --- Gengetopt major mode
 
-;; Copyright (C) 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2010, 2013
+;; Copyright (C) 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2010, 2013, 2021
 ;; Matthew K. Junker
 
 ;; Author: Matthew K. Junker <junker@alum.mit.edu>
-;; Version: 20130521
+;; Version: 20210310
 ;; Keywords: extensions, convenience, local
 
 ;; This file is free software; you can redistribute it and/or modify
@@ -30,6 +30,8 @@
 ;;
 ;; Should work with Emacs version 21 and later.  Works with
 ;; gengetopt 2.22.4.  May or may not work with previous versions.
+;;
+;; Reuben Thomas made helpful updates to this file.
 
 
 ;;; History:
